@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/edoardo/CLionProjects/shadb
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/edoardo/CLionProjects/shadb/cmake-build-debug
+
+Problems were encountered while collecting compiler information:
+	clang: error: invalid version number in '-mmacosx-version-min=11.5'

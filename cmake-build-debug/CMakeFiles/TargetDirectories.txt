@@ -1,0 +1,3 @@
+/Users/edoardo/CLionProjects/shadb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/edoardo/CLionProjects/shadb/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edoardo/CLionProjects/shadb/cmake-build-debug/CMakeFiles/shadb.dir
